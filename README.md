@@ -9,6 +9,8 @@
 **Additional Output:** PDF  
 **Language:** Thai / English / Multilingual
 
+**Design:** Thitiwass Kachanaphimai
+
 ---
 
 ## Overview
