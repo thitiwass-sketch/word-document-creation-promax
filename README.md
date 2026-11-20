@@ -1,4 +1,4 @@
-# Word Document Creation ProMax
+# Word Document Thitiwass
 
 ### Universal Document Production Skill for Google Gemini
 
@@ -9,13 +9,13 @@
 **Additional Output:** PDF  
 **Language:** Thai / English / Multilingual
 
-**Design:** Thitiwass Kachanaphimai
+**Design:** Thitiwass Kanchanaphimai
 
 ---
 
 ## Overview
 
-**Word Document Creation ProMax** is an independent AI Skill designed to transform raw content, structured data, research materials, images, tables, and documents into professional Microsoft Word documents.
+**Word Document Thitiwass Kanchanaphimai** is an independent AI Skill designed to transform raw content, structured data, research materials, images, tables, and documents into professional Microsoft Word documents.
 
 It operates as a centralized Document Production Engine that can work independently or integrate with multiple specialized AI Operating Systems (AI OS).
 
@@ -425,4 +425,4 @@ MULTIPLE AI OS.**
 
 ---
 
-**Word Document Creation ProMax — Professional Document Intelligence & Automation.**
+**Word Document Thitiwass Kanchanaphimai — Professional Document Intelligence & Automation.**
